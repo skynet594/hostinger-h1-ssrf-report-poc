@@ -1,0 +1,11 @@
+[submodule "leak_hostingerdev"]
+	path =  leak_hostingerdev
+	url =  http://requests-proxy.hostinger.dev/
+
+[submodule "leak_mysql_pma"]
+	path =  leak_mysql_pma
+	url =  http://mysql:80/phpmyadmin/
+
+[submodule "leak_localhost"]
+	path =  leak_localhost
+	url =  http://127.0.0.1:80/
